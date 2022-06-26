@@ -283,8 +283,15 @@ a {
   color: white;
 }
 
-.contactFormEntry {
-  margin-left: 3rem;
+.contactForm {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.form {
+  font-size: 3rem;
+  text-align: left;
+  margin: auto;
 }
 
 .pdf {
@@ -421,4 +428,21 @@ a {
 
 .skillsTitle, .resumeTitle {
   text-align: center;
+}
+
+.myLinks {
+  columns: 1;
+  align-items: center;
+  margin-top: -20%;
+  margin-left: 60%;
+  padding: auto;
+}
+
+.contactImg {
+  width: 8rem;
+  height: 8rem;
+}
+
+#linkedinImg {
+  border-radius: 50%;
 }
