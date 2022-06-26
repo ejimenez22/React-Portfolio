@@ -7,7 +7,7 @@ function Portfolio() {
         <SideNav />
         <div id='Portfolio'>
         <section>
-            <h1>Portfolio</h1>
+            <h1 className='portTitle'>Portfolio</h1>
            <ul className='portfolio'>
             <li>
             <a href="https://archiedonaho.github.io/Search-Watch-Chill/" target="_blank" rel="noopener noreferrer">

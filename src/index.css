@@ -212,12 +212,13 @@ a {
 }
 
 .skills {
+  display: flexbox;
+  justify-content: center;
   align-items: center;
   columns: 4;
   column-gap: 1rem;
-  margin: auto;
+  margin: 0 15rem;
   padding: auto;
-
 }
 
 .nav {
@@ -237,9 +238,10 @@ a {
 }
 
 .img-resume {
-  margin-top: 3rem;
-  margin-left: 2rem;
-  width:  10rem;
+  align-items: center;
+  margin-left: 75rem;
+  padding: auto;
+  width: 10rem;
   height: 10rem;
 }
 
@@ -410,4 +412,13 @@ a {
   margin: auto;
   padding: auto;
   border-radius: 50%;
+}
+
+.portTitle {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.skillsTitle, .resumeTitle {
+  text-align: center;
 }

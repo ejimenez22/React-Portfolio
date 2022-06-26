@@ -6,14 +6,14 @@ function Resume() {
         <>
         <SideNav />
         <section id="Resume">
-            <h1>My Resume</h1>
+            <h1 className="resumeTitle">My Resume</h1>
             <li>
             <a href="https://docs.google.com/document/d/e/2PACX-1vQQJWBtQYqChRTU08jhuTfv2P9IpKiUVoOJeWViEuWynrD61VMGKDoOs6z18yUWLujJs_u2tCfRhVtg/pub" target="_blank" rel="noopener noreferrer" >
                 <img className="img-resume" alt="resume" src={require('../../assets/images/Resume.png')} />    
             </a>
             </li>
             <div>
-                <h1> My Skills </h1>
+                <h1 className="skillsTitle"> My Skills </h1>
                 <ul className="skills">
                     <li>
                         <img className="img" alt="js" src={require("../../assets/images/JS.png")} />
