@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.99cb0635.css",
-    "main.js": "/React-Portfolio/static/js/main.bc06e559.js",
+    "main.css": "/React-Portfolio/static/css/main.0ea5cfdf.css",
+    "main.js": "/React-Portfolio/static/js/main.9d21e711.js",
     "static/js/787.1ed0c42c.chunk.js": "/React-Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/OOP.gif": "/React-Portfolio/static/media/OOP.4fc0b3140805a3c7733f.gif",
     "static/media/ORM.gif": "/React-Portfolio/static/media/ORM.689767011e1d51d634f8.gif",
+    "static/media/profile.jpg": "/React-Portfolio/static/media/profile.b9b526c681446b74e1e6.jpg",
     "static/media/JS.png": "/React-Portfolio/static/media/JS.cae65a84867e9d6ad7bf.png",
     "static/media/Search-watch-chill.png": "/React-Portfolio/static/media/Search-watch-chill.191313e5a51114042430.png",
-    "static/media/bot.jpg": "/React-Portfolio/static/media/bot.126ceae5b08a07c4ba5e.jpg",
     "static/media/REST.png": "/React-Portfolio/static/media/REST.c5618b6df35050c50c2e.png",
     "static/media/PWA.png": "/React-Portfolio/static/media/PWA.c12aea697a14ca4db10c.png",
     "static/media/sikester.png": "/React-Portfolio/static/media/sikester.6dc96b81c52b2747c698.png",
@@ -18,12 +18,12 @@
     "static/media/mongodb.png": "/React-Portfolio/static/media/mongodb.78774a02c15c603d5956.png",
     "static/media/Resume.png": "/React-Portfolio/static/media/Resume.c7ddf3192a85a605276f.png",
     "index.html": "/React-Portfolio/index.html",
-    "main.99cb0635.css.map": "/React-Portfolio/static/css/main.99cb0635.css.map",
-    "main.bc06e559.js.map": "/React-Portfolio/static/js/main.bc06e559.js.map",
+    "main.0ea5cfdf.css.map": "/React-Portfolio/static/css/main.0ea5cfdf.css.map",
+    "main.9d21e711.js.map": "/React-Portfolio/static/js/main.9d21e711.js.map",
     "787.1ed0c42c.chunk.js.map": "/React-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.99cb0635.css",
-    "static/js/main.bc06e559.js"
+    "static/css/main.0ea5cfdf.css",
+    "static/js/main.9d21e711.js"
   ]
 }
