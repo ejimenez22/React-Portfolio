@@ -325,13 +325,16 @@ a {
   text-align: center;
   margin: 30rem;
   font-size: 150px;
+  animation: fadeInAnimation ease 10s;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
 }
 
 .cubeContainer {
   width: 53%;
   height: 60%;
   top: -18%;
-  padding-top: 20%;
+  margin-top: 20%;
   margin-left: 0;
   position: absolute;
   right: 0;
