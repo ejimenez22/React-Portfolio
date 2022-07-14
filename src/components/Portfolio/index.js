@@ -26,10 +26,10 @@ function Portfolio() {
                 </a>
             </li>
             <li>
-            <a href="https://hidden-mountain-21494.herokuapp.com/" target="_blank" rel="noopener noreferrer">
-                    <img className='projects' src={require("../../assets/projects/Note-taker.png")} alt="Note-Taker" />
+            <a href="https://frozen-cove-10855.herokuapp.com/" target="_blank" rel="noopener noreferrer">
+                    <img className='projects' src={require("../../assets/projects/Canvas.jpg")} alt="Note-Taker" />
                 </a>
-                <a href="https://github.com/ejimenez22/Write-this-down" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/DeenaSmith/canvas" target="_blank" rel="noopener noreferrer">
                 <img className="img-port" alt="Git" src={require("../../assets/images/Git.png")} />
                 </a>
             </li>
