@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.0ea5cfdf.css",
-    "main.js": "/React-Portfolio/static/js/main.9d21e711.js",
+    "main.js": "/React-Portfolio/static/js/main.71c184fc.js",
     "static/js/787.1ed0c42c.chunk.js": "/React-Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/OOP.gif": "/React-Portfolio/static/media/OOP.4fc0b3140805a3c7733f.gif",
     "static/media/ORM.gif": "/React-Portfolio/static/media/ORM.689767011e1d51d634f8.gif",
     "static/media/profile.jpg": "/React-Portfolio/static/media/profile.b9b526c681446b74e1e6.jpg",
+    "static/media/Canvas.jpg": "/React-Portfolio/static/media/Canvas.e65538a132c8371c78f9.jpg",
     "static/media/JS.png": "/React-Portfolio/static/media/JS.cae65a84867e9d6ad7bf.png",
     "static/media/Search-watch-chill.png": "/React-Portfolio/static/media/Search-watch-chill.191313e5a51114042430.png",
     "static/media/REST.png": "/React-Portfolio/static/media/REST.c5618b6df35050c50c2e.png",
@@ -13,17 +14,16 @@
     "static/media/sikester.png": "/React-Portfolio/static/media/sikester.6dc96b81c52b2747c698.png",
     "static/media/Bulma.png": "/React-Portfolio/static/media/Bulma.25c315bc1726145d4d2d.png",
     "static/media/Git.png": "/React-Portfolio/static/media/Git.69ffd9cd5a846c976177.png",
-    "static/media/Note-taker.png": "/React-Portfolio/static/media/Note-taker.405f02fbc6827f657745.png",
     "static/media/Jquery.png": "/React-Portfolio/static/media/Jquery.0909768b510fc537ffb5.png",
     "static/media/mongodb.png": "/React-Portfolio/static/media/mongodb.78774a02c15c603d5956.png",
     "static/media/Resume.png": "/React-Portfolio/static/media/Resume.c7ddf3192a85a605276f.png",
     "index.html": "/React-Portfolio/index.html",
     "main.0ea5cfdf.css.map": "/React-Portfolio/static/css/main.0ea5cfdf.css.map",
-    "main.9d21e711.js.map": "/React-Portfolio/static/js/main.9d21e711.js.map",
+    "main.71c184fc.js.map": "/React-Portfolio/static/js/main.71c184fc.js.map",
     "787.1ed0c42c.chunk.js.map": "/React-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0ea5cfdf.css",
-    "static/js/main.9d21e711.js"
+    "static/js/main.71c184fc.js"
   ]
 }
