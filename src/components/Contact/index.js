@@ -41,6 +41,7 @@ function Contact() {
         <SideNav />
         <section className='contactForm' id='Contact'>
             <h1>Contact Me</h1>
+            <h2>ejimenez2292@gmail.com</h2>
             <form id='contact-form' className='form' onSubmit={handleSubmit}>
                 <div>
                     <label htmlFor='name'>Name:</label>
@@ -73,7 +74,7 @@ function Contact() {
                 </a>
                 </li>
                 <li>
-                <a href="https://www.linkedin.com/in/enrique-jimenez-0121a5177/" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.linkedin.com/in/enriquejimenezsoftwaredeveloper/" target="_blank" rel="noopener noreferrer">
                 <img className="contactImg" id='linkedinImg' alt="Linkedin" src={require("../../assets/images/Linkedin.png")} />
                 </a>
                 </li>
